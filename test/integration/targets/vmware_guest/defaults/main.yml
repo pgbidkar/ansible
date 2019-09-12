@@ -30,4 +30,7 @@ vmware_guest_test_playbooks:
 #  - template_d1_c1_f0.yml
   - vapp_d1_c1_f0.yml
   - reconfig_vm_to_latest_version.yml
+<<<<<<< aa68f728fdd9b2b93da3da6a6b18a00b24cfe7e3
   - remove_vm_from_inventory.yml
+=======
+>>>>>>> Change support latest version while upgrading VM hardware. Fix issue #56273
